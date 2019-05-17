@@ -1,7 +1,0 @@
-name: hello world
-description: |hello world entry
-version: 0.1
-category: test service 
-maintainer: landmark
-license: MIT
-projectURL: www.google.com
